@@ -1,0 +1,59 @@
+id,name,gender,weight_class,stance,height_in,weight_lbs,reach_in,wins,losses,draws,ko_wins,sub_wins,decision_wins,total_fights,win_pct,win_style,reach_vs_class
+2683,AJ Cunningham,M,Bantamweight,Orthodox,70.0,136.0,71.0,11.0,5.0,0.0,4.0,4.0,3.0,16.0,0.6875,KO,2.0
+2721,Baergeng Jieleyisi,M,Bantamweight,Orthodox,69.0,135.0,70.0,18.0,6.0,0.0,4.0,10.0,4.0,24.0,0.75,Submission,1.0
+280,Brian Kelleher,M,Bantamweight,Switch,66.0,136.0,66.0,24.0,16.0,0.0,8.0,10.0,6.0,40.0,0.6,Submission,-3.0
+1312,Bryan Caraway,M,Bantamweight,Orthodox,68.0,135.0,68.0,21.0,10.0,0.0,2.0,16.0,3.0,31.0,0.6774193548387096,Submission,-1.0
+2670,Charalampos Grigoriou,M,Bantamweight,Orthodox,67.0,136.0,67.5,8.0,5.0,0.0,6.0,0.0,2.0,13.0,0.6153846153846154,KO,-1.5
+2101,Masanori Kanehara,M,Bantamweight,Orthodox,70.0,135.0,67.5,27.0,14.0,5.0,9.0,11.0,7.0,46.0,0.6585365853658537,Submission,-1.5
+2061,Michinori Tanaka,M,Bantamweight,Orthodox,65.0,135.0,67.5,12.0,3.0,0.0,0.0,6.0,6.0,15.0,0.8,Submission,-1.5
+796,Alejandro Flores,M,Featherweight,Orthodox,70.0,145.0,73.0,17.0,3.0,0.0,6.0,2.0,9.0,20.0,0.85,Decision,1.25
+415,Calvin Kattar,M,Featherweight,Orthodox,71.0,146.0,72.0,23.0,9.0,0.0,11.0,2.0,10.0,32.0,0.71875,KO,0.25
+2539,Chepe Mariscal,M,Featherweight,Orthodox,67.0,146.0,69.0,18.0,7.0,0.0,7.0,3.0,8.0,25.0,0.72,Decision,-2.75
+2217,Chris Avila,M,Featherweight,Orthodox,67.0,145.0,72.0,7.0,9.0,0.0,3.0,3.0,1.0,16.0,0.4375,KO,0.25
+1288,Lucas Martins,M,Featherweight,Southpaw,72.0,145.0,72.0,16.0,4.0,0.0,10.0,4.0,2.0,20.0,0.8,KO,0.25
+345,Matt Sayles,M,Featherweight,Orthodox,67.0,155.0,68.5,8.0,4.0,0.0,6.0,1.0,1.0,12.0,0.6666666666666666,KO,-3.25
+1940,Chico Camus,M,Flyweight,Orthodox,66.0,135.0,66.0,17.0,8.0,0.0,4.0,3.0,10.0,25.0,0.68,Decision,-1.0
+599,Tyson Nam,M,Flyweight,Orthodox,67.0,126.0,68.0,21.0,14.0,1.0,13.0,1.0,7.0,36.0,0.6,KO,1.0
+2386,Victor Altamirano,M,Flyweight,Switch,68.0,126.0,70.0,12.0,5.0,0.0,2.0,4.0,6.0,17.0,0.7058823529411765,Decision,3.0
+2367,Chris Barnett,M,Heavyweight,Orthodox,69.0,264.0,75.0,23.0,9.0,0.0,18.0,0.0,5.0,32.0,0.71875,KO,-2.0
+709,Fabricio Werdum,M,Heavyweight,Orthodox,76.0,265.0,77.0,24.0,9.0,1.0,6.0,12.0,6.0,34.0,0.7272727272727273,Submission,0.0
+2132,Konstantin Erokhin,M,Heavyweight,Orthodox,71.0,205.0,73.0,9.0,4.0,0.0,8.0,0.0,1.0,13.0,0.6923076923076923,KO,-4.0
+2226,Mark Godbeer,M,Heavyweight,Orthodox,76.0,240.0,77.5,13.0,4.0,0.0,9.0,2.0,2.0,17.0,0.7647058823529411,KO,0.5
+350,Walt Harris,M,Heavyweight,Southpaw,77.0,264.0,77.0,13.0,10.0,0.0,13.0,0.0,0.0,23.0,0.5652173913043478,KO,0.0
+448,Yorgan De Castro,M,Heavyweight,Orthodox,72.0,261.0,74.0,6.0,3.0,0.0,5.0,0.0,1.0,9.0,0.6666666666666666,KO,-3.0
+2448,Anton Turkalj,M,Light Heavyweight,Orthodox,76.0,205.0,78.0,8.0,4.0,0.0,5.0,2.0,1.0,12.0,0.6666666666666666,KO,2.5
+2174,Daniel Jolly,M,Light Heavyweight,Orthodox,73.0,205.0,75.0,5.0,4.0,0.0,2.0,1.0,2.0,9.0,0.5555555555555556,KO,-0.5
+1310,Francimar Barroso,M,Light Heavyweight,Orthodox,73.0,265.0,75.0,25.0,7.0,1.0,9.0,7.0,9.0,33.0,0.78125,KO,-0.5
+2703,Magomed Gadzhiyasulov,M,Light Heavyweight,Orthodox,74.0,205.0,75.5,9.0,1.0,0.0,5.0,1.0,3.0,10.0,0.9,KO,0.0
+1683,Tom Lawlor,M,Light Heavyweight,Southpaw,72.0,205.0,75.0,10.0,7.0,0.0,4.0,4.0,2.0,17.0,0.5882352941176471,KO,-0.5
+2526,Anshul Jubli,M,Lightweight,Switch,72.0,155.0,69.0,7.0,2.0,0.0,2.0,1.0,4.0,9.0,0.7777777777777778,Decision,-4.0
+2012,Ben Wall,M,Lightweight,Orthodox,70.0,155.0,73.0,8.0,3.0,1.0,0.0,2.0,6.0,12.0,0.7272727272727273,Decision,0.0
+481,Joe Solecki,M,Lightweight,Orthodox,69.0,155.0,70.5,13.0,6.0,0.0,1.0,8.0,4.0,19.0,0.6842105263157895,Submission,-2.5
+2710,Jordan Vucenic,M,Lightweight,Orthodox,70.0,155.0,73.0,13.0,4.0,0.0,2.0,6.0,5.0,17.0,0.7647058823529411,Submission,0.0
+1983,Leandro Silva,M,Lightweight,Orthodox,69.0,155.0,72.0,21.0,7.0,1.0,2.0,10.0,9.0,29.0,0.75,Submission,-1.0
+1381,Pat Healy,M,Lightweight,Orthodox,72.0,145.0,74.0,34.0,23.0,0.0,7.0,15.0,12.0,57.0,0.5964912280701754,Submission,1.0
+2323,Richie Smullen,M,Lightweight,Orthodox,69.0,155.0,68.3,5.0,2.0,1.0,1.0,3.0,1.0,8.0,0.7142857142857143,Submission,-4.700000000000003
+2361,Adam Yandiev,M,Middleweight,Orthodox,69.0,185.0,74.0,9.0,1.0,0.0,3.0,6.0,0.0,10.0,0.9,Submission,-1.0
+791,Anthony Adams,M,Middleweight,Orthodox,73.0,185.0,77.0,8.0,2.0,0.0,1.0,0.0,7.0,10.0,0.8,Decision,2.0
+287,Derek Brunson,M,Middleweight,Southpaw,73.0,186.0,77.0,24.0,9.0,0.0,12.0,4.0,8.0,33.0,0.7272727272727273,KO,2.0
+2691,Dylan Budka,M,Middleweight,Switch,72.0,186.0,75.0,7.0,5.0,0.0,1.0,2.0,4.0,12.0,0.5833333333333334,Decision,0.0
+1751,Gerald Harris,M,Middleweight,Southpaw,71.0,185.0,77.5,25.0,8.0,1.0,11.0,6.0,8.0,34.0,0.7575757575757576,KO,2.5
+776,Joe Pyfer,M,Middleweight,Orthodox,74.0,186.0,75.0,15.0,3.0,0.0,9.0,4.0,2.0,18.0,0.8333333333333334,KO,0.0
+863,Mariusz Ksiazkiewicz,M,Middleweight,Southpaw,75.0,185.0,75.0,8.0,1.0,0.0,2.0,5.0,1.0,9.0,0.8888888888888888,Submission,0.0
+1406,Bobby Nash,M,Welterweight,Orthodox,72.0,170.0,74.0,8.0,4.0,0.0,4.0,3.0,1.0,12.0,0.6666666666666666,KO,2.0
+565,Colby Covington,M,Welterweight,Orthodox,71.0,169.0,72.0,17.0,4.0,0.0,3.0,5.0,9.0,21.0,0.8095238095238095,Decision,0.0
+2021,Gasan Umalatov,M,Welterweight,Orthodox,71.0,185.0,71.0,18.0,5.0,3.0,4.0,7.0,7.0,26.0,0.782608695652174,Submission,-1.0
+2147,Jonavin Webb,M,Welterweight,Orthodox,70.0,170.0,71.0,11.0,4.0,0.0,2.0,5.0,4.0,15.0,0.7333333333333333,Submission,-1.0
+164,Jorge Masvidal,M,Welterweight,Orthodox,71.0,170.0,74.0,35.0,17.0,0.0,16.0,2.0,17.0,52.0,0.6730769230769231,Decision,2.0
+165,Leon Edwards,M,Welterweight,Southpaw,74.0,171.0,74.0,22.0,5.0,0.0,7.0,3.0,12.0,27.0,0.8148148148148148,Decision,2.0
+564,Salim Touahri,M,Welterweight,Orthodox,70.0,170.0,72.0,10.0,4.0,0.0,6.0,2.0,2.0,14.0,0.7142857142857143,KO,0.0
+2177,Shinsho Anzai,M,Welterweight,Orthodox,67.0,170.0,70.5,11.0,4.0,0.0,7.0,0.0,4.0,15.0,0.7333333333333333,KO,-1.5
+392,Takashi Sato,M,Welterweight,Southpaw,70.0,170.0,73.0,16.0,7.0,0.0,11.0,2.0,3.0,23.0,0.6956521739130435,KO,1.0
+1958,Yuri Villefort,M,Welterweight,Orthodox,72.0,170.0,73.0,11.0,8.0,0.0,4.0,4.0,3.0,19.0,0.5789473684210527,KO,1.0
+858,Stephanie Egger,W,Women's Bantamweight,Orthodox,66.0,135.0,68.0,8.0,5.0,0.0,3.0,4.0,1.0,13.0,0.6153846153846154,Submission,0.0
+158,Yana Santos,W,Women's Bantamweight,Orthodox,66.0,136.0,68.0,16.0,8.0,0.0,7.0,1.0,8.0,24.0,0.6666666666666666,Decision,0.0
+781,Julija Stoliarenko,W,Women's Featherweight,Orthodox,67.0,126.0,66.0,11.0,9.0,2.0,0.0,10.0,1.0,22.0,0.55,Submission,0.0
+187,Maycee Barber,W,Women's Flyweight,Switch,65.0,125.0,65.0,15.0,2.0,0.0,6.0,2.0,7.0,17.0,0.8823529411764706,Decision,0.0
+783,Hilarie Rose,W,Women's Strawweight,Orthodox,63.0,115.0,63.0,4.0,2.0,0.0,1.0,2.0,1.0,6.0,0.6666666666666666,Submission,-1.0
+2625,Marnic Mann,W,Women's Strawweight,Southpaw,60.0,115.0,64.0,6.0,3.0,0.0,3.0,1.0,2.0,9.0,0.6666666666666666,KO,0.0
+2607,Viktoriia Dudakova,W,Women's Strawweight,Orthodox,65.0,116.0,67.0,8.0,2.0,0.0,2.0,4.0,2.0,10.0,0.8,Submission,3.0
